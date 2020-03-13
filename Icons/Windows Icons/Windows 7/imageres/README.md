@@ -17,3 +17,7 @@ I'm glad your ready to download your free imageres.dll file from Windows 7. This
 5) Choose your icon and enjoy!
 
 I could only download this DLL thanks to [Help4Windows](https://help4windows.com).
+
+## License Information
+
+This icon pack is free to download and use. There is no requirements to download, use and republish this file. It would be appreciated if you mentioned the IconHub GitHub project if you republish this file. If you do decide to mention us please say "This icon pack was proudly published by the IconHub GitHub project.".
